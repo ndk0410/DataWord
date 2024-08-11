@@ -133,3 +133,6 @@ bật nhảy
 độ cao
 độ sâu
 cốc nước
+cốc nhựa
+cốc sữa
+cốc sứ
