@@ -128,3 +128,7 @@ buộc dây
 nạn đói
 bật nhảy
 độ xe
+độ dài
+độ rộng
+độ cao
+độ sâu
