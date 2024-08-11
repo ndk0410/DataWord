@@ -132,3 +132,4 @@ bật nhảy
 độ rộng
 độ cao
 độ sâu
+cốc nước
