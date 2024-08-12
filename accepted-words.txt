@@ -151,3 +151,6 @@ quả cau
 đoạt hồn
 đoạt mệnh
 đoạt lấy
+bút xóa
+nang trứng
+nang mực
